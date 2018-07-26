@@ -1,0 +1,5 @@
+#leftMid + #midMid + #rightMid {
+  border-top: 1 px;
+  border-bottom: 1px;
+  border-style: solid;
+}
